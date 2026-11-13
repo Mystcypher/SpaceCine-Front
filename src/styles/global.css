@@ -1,5 +1,5 @@
 /* ------- RESET ------- */
-*{
+* {
     margin: 0;
     padding: 0;
     border: none;
@@ -7,7 +7,7 @@
 }
 
 /* ------- Variáveis ------- */
-:root{
+:root {
     --color-purple900: #10002b;
     --color-purple800: #240046;
     --color-purple700: #3C096C;
@@ -21,7 +21,6 @@
     --font-body: "Inter", sans-serif;
 }
 
-.text-highlight{
+.text-highlight {
     color: var(--color-purple400);
 }
-
